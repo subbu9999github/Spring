@@ -10,7 +10,7 @@ public class Department {
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
 
-	private String name;
+
 
 
 	public void setId(Long id) {
